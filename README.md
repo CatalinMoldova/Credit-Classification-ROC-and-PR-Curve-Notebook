@@ -80,8 +80,3 @@ This repository contains an annotated Jupyter notebook exploring classifier eval
 
 Notebook and analysis by Catalin Botezat.
 
-***
-
-This README provides a clear guide and usage instructions for collaborators or graders and summarizes both the purpose and value of the notebook’s analysis.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/38276670/75d80895-aebf-482f-98a7-75eef5a80436/Catalin_Botezat_cb5330_problem3_HW1.ipynb)
